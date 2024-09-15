@@ -3,5 +3,5 @@
   <p style="font-size: 48px;">Welcome to my GitHub profile!</p>
 </div>
 
-![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=dimonoid1989&show_icons=true&theme=radical)
+![Dmitry's GitHub stats](https://github-readme-stats.vercel.app/api?username=DmitriyEgorov1989&show_icons=true&theme=radical)
 
